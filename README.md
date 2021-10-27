@@ -1,2 +1,2 @@
 # LaboratoriosPhyton
-Repositorio encargado de almacenar codigo utilizado para laboratorios de Phyton.
+Repositorio destinado al almacenamiento de codigo utilizado para laboratorios de Phyton.
